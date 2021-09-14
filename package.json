@@ -1,6 +1,6 @@
 {
   "name": "@fvilers/is-object",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A TypeScript type guard that validates if the given value is an object",
   "main": "dist/is-object.js",
   "types": "dist/is-object.d.ts",
