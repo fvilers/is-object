@@ -2,6 +2,11 @@
   "name": "is-object",
   "version": "0.0.0",
   "description": "A TypeScript type guard that validates if the given value is an object",
+  "main": "dist/is-object.js",
+  "types": "dist/is-object.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fvilers/is-object.git"
@@ -15,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fvilers/is-object/issues"
   },
-  "homepage": "https://github.com/fvilers/is-object#readme"
+  "homepage": "https://github.com/fvilers/is-object#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
