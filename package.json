@@ -1,0 +1,19 @@
+{
+  "name": "is-object",
+  "version": "0.0.0",
+  "description": "A TypeScript type guard that validates if the given value is an object",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvilers/is-object.git"
+  },
+  "keywords": [
+    "typescript",
+    "typescript-library"
+  ],
+  "author": "Fabian Vilers <fabian.vilers@dev-one.com> (https://www.dev-one.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvilers/is-object/issues"
+  },
+  "homepage": "https://github.com/fvilers/is-object#readme"
+}
