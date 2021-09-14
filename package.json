@@ -1,11 +1,12 @@
 {
-  "name": "is-object",
+  "name": "@fvilers/is-object",
   "version": "0.0.0",
   "description": "A TypeScript type guard that validates if the given value is an object",
   "main": "dist/is-object.js",
   "types": "dist/is-object.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
