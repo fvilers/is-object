@@ -14,10 +14,14 @@ or
 yarn add @fvilers/is-object
 ```
 
+# ECMAScript module
+
+Starting with version 2.0.0, this library will be published as an ECMAScript module.
+
 ## Usage
 
 ```ts
-import isObject from "@fvilers/is-object";
+import { isObject } from "@fvilers/is-object";
 
 const variable: any = { hello: "world" };
 

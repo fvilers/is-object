@@ -1,5 +1,3 @@
-function isObject(value: unknown): value is object {
+export function isObject(value: unknown): value is object {
   return typeof value === "object";
 }
-
-export default isObject;
